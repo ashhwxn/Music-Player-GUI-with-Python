@@ -1,5 +1,5 @@
 # Music-Player-GUI-with-Python
-A Music Player lets you manage and listen to all your music files quickly and easily. In this article, I will take you through how to create a Music Player GUI with Python.
+A Music Player lets you manage and listen to all your music files quickly and easily.
 
 Here we created a music player with Python GUI framework
 We will create functions such as play, stop, pause and resume in order to control the music player. To create these commands, we’ll build some functions and we’ll use Tkinter to create the button in the interface.
